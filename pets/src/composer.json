@@ -1,0 +1,16 @@
+{
+  "name": "alexbrenn/328/pets",
+  "authors":[
+    {
+      "name": "Alex brenna",
+      "email": "Breena.alexander@student.greenriver.edu"
+    },
+    {
+      "name": "Gavin Sherman",
+      "email": "Sherman.gavin@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bosca/fatfree-core": "dev-master"
+  }
+}
